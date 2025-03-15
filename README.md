@@ -65,6 +65,6 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
 
 ### Looker Studio Report
 
-![image](https://github.com/user-attachments/assets/d06f0d3e-a1d0-404a-9eb7-c61c85df8257)
+![image](https://github.com/abhira15/ELT-Pipeline/blob/3e61b80efa54a43aa105885fefc14c8458d137d7/Images/LookerStudio.png)
 
 
